@@ -133,6 +133,8 @@ jspm_packages
 # Yarn Integrity file
 .yarn-integrity
 
+# JetBrains Rider
+.idea/
 
 
 # End of https://www.gitignore.io/api/webstorm,sublimetext
