@@ -1,0 +1,41 @@
+/* ***** NAVBAR ***** */
+
+.logo {
+    padding: 5px;
+    height: 60px;
+}
+
+.binNav{
+    background-color: #1a6a82;
+}
+
+.binNav-item {
+    color: #009206 !important;
+    font-size: 150%;
+}
+
+.binNav-item:hover,
+.binNav-item:focus {
+    color: #00d809 !important;
+}
+
+.navbar-brand:hover,
+.navbar-brand:focus {
+    color: #00d809 !important;
+}
+
+.navbar-brand {
+    color: #009206 !important;
+    font-size: 200%;
+}
+
+/* ***** NAVBAR ***** */
+.home-page{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+
+}
+.input-group-seach{
+    margin-top: 50px;
+}
