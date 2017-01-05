@@ -6,7 +6,7 @@ import Main from '../containers/Main'
 let routes = (
     <Router history = {hashHistory}>
         <Route path="/" component={Main}>
-            <Route path = "/home" component = {Home}/>
+            <IndexRoute component = {Home}/>
         </Route>
     </Router>
 

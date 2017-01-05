@@ -14,7 +14,7 @@ class Toolbar extends React.Component {
             <Nav>
                 <NavbarHeader>
                     <HamburgerButton/>
-                    <NavbarLogo photo={"logo.png"}/>
+                    <NavbarLogo photo={"app/assets/logo.jpg"}/>
                     <NavbarBrand brand={"Bin sports"}/>
                 </NavbarHeader>
                 <NavbarContent litem={this.props.litem}/>

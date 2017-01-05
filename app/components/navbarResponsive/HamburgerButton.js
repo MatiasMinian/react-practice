@@ -6,7 +6,7 @@ import React from 'react'
 let HamburgerButton = React.createClass({
     render(){
         return(
-            <button type="button" className="navbar-toggle" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar" aria-expanded="false">
+            <button type="button" className="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar" aria-expanded="false">
                 <span className="icon-bar"/>
                 <span className="icon-bar"/>
                 <span className="icon-bar"/>

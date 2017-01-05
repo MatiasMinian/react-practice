@@ -6,26 +6,26 @@
 }
 
 .binNav{
-    background-color: #1a6a82;
+    background-color: #f1efee;
 }
 
 .binNav-item {
-    color: #009206 !important;
+    color: #464646 !important;
     font-size: 150%;
 }
 
 .binNav-item:hover,
 .binNav-item:focus {
-    color: #00d809 !important;
+    color: #464646 !important;
 }
 
 .navbar-brand:hover,
 .navbar-brand:focus {
-    color: #00d809 !important;
+    color: #464646 !important;
 }
 
 .navbar-brand {
-    color: #009206 !important;
+    color: #464646 !important;
     font-size: 200%;
 }
 
@@ -34,8 +34,14 @@
     height: 100vh;
     display: flex;
     align-items: center;
+    background-color: white;
 
 }
 .input-group-seach{
     margin-top: 50px;
+}
+
+.img-sports{
+    max-height: 30vh ;
+    max-width: 30vh;
 }
